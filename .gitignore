@@ -1,0 +1,25 @@
+# macOS
+*~
+.DS_Store
+
+# Vim
+.vim/
+
+# IDEA
+.idea/
+out/
+classes/
+*.iml
+
+# Gradle
+.gradle/
+build/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Maven
+target/
+pom.xml
